@@ -23,6 +23,7 @@ def run():
     #print(selected_word_list)
     #print(selected_word_list_space)
     #print(letter_index_dict)
+    #prueba de git
 
     while True:
         os.system("clear")
